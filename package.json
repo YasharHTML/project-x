@@ -1,0 +1,29 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Yashar Ibrahimkhalilov Full Stack 1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasharHTML/project-x.git"
+  },
+  "author": "YasharHTML",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YasharHTML/project-x/issues"
+  },
+  "homepage": "https://github.com/YasharHTML/project-x#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.1",
+    "eslint": "^8.40.0",
+    "gulp": "^4.0.2"
+  }
+}
